@@ -1,0 +1,8 @@
+#!/bin/bash
+
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" train_photos.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/train_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A08%3A58Z&sr=b&sp=r&sig=vmWzp%2FLMAOw7kHe6khhPI95nnDjH%2Bu7bebjMMmvRfyE%3D"
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" test_photos.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/test_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A36%3A59Z&sr=b&sp=r&sig=38IIrtCd%2BxVBUJOY4wOxoh7rfNfXcuBsevarc%2BQVagc%3D"
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" 1.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/train_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A08%3A58Z&sr=b&sp=r&sig=vmWzp%2FLMAOw7kHe6khhPI95nnDjH%2Bu7bebjMMmvRfyE%3D"
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" 1.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/train_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A08%3A58Z&sr=b&sp=r&sig=vmWzp%2FLMAOw7kHe6khhPI95nnDjH%2Bu7bebjMMmvRfyE%3D"
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" 1.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/train_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A08%3A58Z&sr=b&sp=r&sig=vmWzp%2FLMAOw7kHe6khhPI95nnDjH%2Bu7bebjMMmvRfyE%3D"
+bash download_adv.sh "https://www.kaggle.com/c/yelp-restaurant-photo-classification/data" 1.tgz "https://kaggle2.blob.core.windows.net/competitions-data/kaggle/4829/train_photos.tgz?sv=2012-02-12&se=2016-02-13T17%3A08%3A58Z&sr=b&sp=r&sig=vmWzp%2FLMAOw7kHe6khhPI95nnDjH%2Bu7bebjMMmvRfyE%3D"
